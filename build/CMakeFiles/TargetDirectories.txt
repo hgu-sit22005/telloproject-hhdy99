@@ -1,0 +1,3 @@
+/data/telloproject-hhdy99/build/CMakeFiles/rebuild_cache.dir
+/data/telloproject-hhdy99/build/CMakeFiles/TelloPro.dir
+/data/telloproject-hhdy99/build/CMakeFiles/edit_cache.dir
